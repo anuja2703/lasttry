@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091429900142",
+    "firebase_url": "https://lasttry-ec12d.firebaseio.com",
+    "project_id": "lasttry-ec12d",
+    "storage_bucket": "lasttry-ec12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091429900142:android:462342c401da41030aeb7f",
+        "android_client_info": {
+          "package_name": "com.example.lasttry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091429900142-n7t4hfs0cruodrvbgefmhvmip4s7b8u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lasttry",
+            "certificate_hash": "29e606414b4bc31c1437c3d15a8d3f385aac7970"
+          }
+        },
+        {
+          "client_id": "1091429900142-li8bpeucqs4gu3754h57jcc9ke4b60lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDbBc_4XOALXPm5micNyjOR0nLkeH0X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091429900142-li8bpeucqs4gu3754h57jcc9ke4b60lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
